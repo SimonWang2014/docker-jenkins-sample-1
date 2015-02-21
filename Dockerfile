@@ -1,5 +1,5 @@
 # change the base image, the sohu_ubuntu image had been changed its source with sohu source
-FROM wangh/sohu_ubuntu:latest
+FROM wangh/sohu_ubuntu
 MAINTAINER James Turnbull "james@example.com"
 ENV REFRESHED_AT 2014-06-01
 RUN apt-get update
