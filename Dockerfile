@@ -1,4 +1,4 @@
-# change the base image, the sohu_ubuntu image had been changed its source with sohu source
+# change the base image, the sohu_ubuntu image had been changed its source with sohu source, so that it can be useful in China.
 FROM wangh/sohu_ubuntu
 MAINTAINER James Turnbull "james@example.com"
 ENV REFRESHED_AT 2014-06-01
